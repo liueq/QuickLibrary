@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">QuickLibrary</string>
+    <string name="dialog_title_alert">Alert</string>
+    <string name="dialog_title_permission_denied">Some permissions have been denied, go to Settings to grant them.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_go_settings">SETTINGS</string>
 </resources>
